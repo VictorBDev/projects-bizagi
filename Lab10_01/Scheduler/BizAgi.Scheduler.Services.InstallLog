@@ -1,0 +1,15 @@
+﻿Instalando ensamblado 'C:\Bizagi\Projects\Lab10_01\Scheduler\BizAgi.Scheduler.Services.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   name = BizAgiLab1001SchedulerService
+   assemblypath = C:\Bizagi\Projects\Lab10_01\Scheduler\BizAgi.Scheduler.Services.exe
+   logfile = C:\Bizagi\Projects\Lab10_01\Scheduler\BizAgi.Scheduler.Services.InstallLog
+Instalando el servicio BizAgiLab1001SchedulerService...
+El servicio BizAgiLab1001SchedulerService se ha instalado correctamente.
+Creando el origen de EventLog BizAgiLab1001SchedulerService en el registro Application...
+Confirmando ensamblado 'C:\Bizagi\Projects\Lab10_01\Scheduler\BizAgi.Scheduler.Services.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   name = BizAgiLab1001SchedulerService
+   assemblypath = C:\Bizagi\Projects\Lab10_01\Scheduler\BizAgi.Scheduler.Services.exe
+   logfile = C:\Bizagi\Projects\Lab10_01\Scheduler\BizAgi.Scheduler.Services.InstallLog

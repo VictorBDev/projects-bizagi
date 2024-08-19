@@ -1,0 +1,15 @@
+﻿Instalando ensamblado 'C:\Bizagi\Projects\lab15SolicitudPedido\Scheduler\BizAgi.Scheduler.Services.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   name = BizAgilab15SolicitudPedidoSchedulerService
+   assemblypath = C:\Bizagi\Projects\lab15SolicitudPedido\Scheduler\BizAgi.Scheduler.Services.exe
+   logfile = C:\Bizagi\Projects\lab15SolicitudPedido\Scheduler\BizAgi.Scheduler.Services.InstallLog
+Instalando el servicio BizAgilab15SolicitudPedidoSchedulerService...
+El servicio BizAgilab15SolicitudPedidoSchedulerService se ha instalado correctamente.
+Creando el origen de EventLog BizAgilab15SolicitudPedidoSchedulerService en el registro Application...
+Confirmando ensamblado 'C:\Bizagi\Projects\lab15SolicitudPedido\Scheduler\BizAgi.Scheduler.Services.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   name = BizAgilab15SolicitudPedidoSchedulerService
+   assemblypath = C:\Bizagi\Projects\lab15SolicitudPedido\Scheduler\BizAgi.Scheduler.Services.exe
+   logfile = C:\Bizagi\Projects\lab15SolicitudPedido\Scheduler\BizAgi.Scheduler.Services.InstallLog
